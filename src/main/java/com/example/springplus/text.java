@@ -5,7 +5,7 @@ public class text {
         System.out.println("第一次提交");
         System.out.println("第2次提交");
         System.out.println("第3次提交");
-        System.out.println("第4次提交");
+
         int [] arr={5,6,7,9,3,2,6};
         getSort(arr);
 int a =10;
